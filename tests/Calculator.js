@@ -38,6 +38,6 @@ describe('Demo Calculator', function() {
         //expect(result.getText()).toEqual('5');
         homepage.verify('10');
 
-        browser.sleep(3000);
+        browser.sleep(4000);
     });
 });
